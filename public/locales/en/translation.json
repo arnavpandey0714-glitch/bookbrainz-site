@@ -626,7 +626,7 @@
       "coreRelationship": "ID, type, and entity and text associations",
       "coreWork": "BBID, aliases, languages, type, disambiguation comment",
       "heading": "Licensing",
-      "publicDataNotice": "Other publically available data is licensed under the <ccBySaLink>Creative Commons CC BY-SA</ccBySaLink> license. If you have any queries about licensing of the public data, please <askLink>ask for clarification</askLink>. Please see the links below for more details about CC0 and CC BY-SA."
+      "publicDataNotice": "Other publicly available data is licensed under the <ccBySaLink>Creative Commons CC BY-SA</ccBySaLink> license. If you have any queries about licensing of the public data, please <askLink>ask for clarification</askLink>. Please see the links below for more details about CC0 and CC BY-SA."
     },
     "merge": {
       "cancelMerge": "Cancel merge",
